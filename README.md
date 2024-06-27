@@ -6,5 +6,5 @@
 - Leica Summicron 50mm f/2: US2622478A Example 2 (EFL 100mm)
 - Meike 50mm f/0.95: CN216526483U Example 1
 - Sigma 50mm f/1.4 DG HSM Art: 	JP 2015114366 Example 1
-- Zeiss Planar T 50mm f/1.4: US 3874771 example 5
+- Zeiss Planar T 50mm f/1.4: US 3874771 example 5 (EFL 100mm)
 - Zhongyi Mitakon 50mm f/0.95 (M mount version): CN 111965793 Example 1

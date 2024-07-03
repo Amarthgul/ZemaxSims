@@ -1,0 +1,58 @@
+[descriptive data]
+title	Jupiter-12 36mm f/2.8 62.83 degrees Y=43mm
+[constants]
+[variable distances]
+Focal Length	35.7
+Angle of View	62.83
+F-Number	2.8
+Image Height	43
+Total Length	undefined
+Magnification	0
+d0	Infinity
+Bf	undefined
+Bf(m)	7.17
+[lens data]
+1	18.010	2.75	1.627897	19.0			TK17
+2	45.225	0.10		17.8			
+3	11.080	4.20	1.664101	14.2			BF28
+4	-34.480	0.65	1.727998	14.2			TF7
+5	8.633	1.75		9.0			
+5AS	AS	0.40		8.683
+6	170.325	0.90	1.470793	8.8			LK8
+7	10.105	10.10	1.627897	9.4			TK17
+8	-21.515	1.75		14.4			
+9	-11.300	11.75	1.470793	14.7			LK8
+10	-34.480	Bf		28.5			
+[figure]
+source	GOI/ST01FB45_Catalog1970.png
+originX	251
+originY	428
+ppmm	10.543
+[notes]
+Bill: Distances don't really match.
+System-Jupiter-12 f '= 35 2w = 63 1: 2. Option-ST01FB45 26 / 2/2020 1:48 OPAL-PC
+
+                 OPTICAL SYSTEM CONSTRUCTION PARAMETERS
+  N Radii Axial Light Marks Refractive Index
+ pov. curvature dist. glass heights
+                                                 L = .589300 .434050 .656280
+
+                                             AIR
+   1 18.010 2.750 9.500 TK17 1.627897 1.641345 1.624773
+   2 45.225 .100 8.900 AIR
+   3 11.080 4.200 7.100 BF28 1.664101 1.688977 1.658782
+   4 -34.480 .650 7.100 TF7 1.727998 1.762627 1.720791
+   5 8.633 2.150 4.500 AIR
+   6 170.325 .900 4.400 LK8 1.470793 1.479370 1.468733
+   7 10.105 10.100 4.700 TK17 1.627897 1.641345 1.624773
+   8 -21.515 1.750 7.200 AIR
+   9 -11.300 11.750 7.350 LK8 1.470793 1.479370 1.468733
+  10 -34.480 14.250 AIR
+
+ ITEM: Deleted. size Y = -31.25000gr.mnsec S0 = .000dptr from the entrance pupil
+ PICTURE: Near. size Y '= .00000 flat SI = .000mm from Gauss Square
+ DIAFR. : ND = 5 plane SD = 1.7500 mm height per diaphragm = 4.4500 mm
+
+ Relative size of the item: 1.000 .707
+ Relative vignetting upper: .000 .000
+ Relative vignetting lower: .000 .000

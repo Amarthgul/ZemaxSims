@@ -1,0 +1,58 @@
+[descriptive data]
+title	Helios-44 59mm f/2 40.33 degrees Y=43mm
+[constants]
+[variable distances]
+Focal Length	58.60
+Angle of View	40.33
+F-Number	2
+Image Height	43
+Total Length	undefined
+Magnification	0
+d0	Infinity
+Bf	undefined
+Bf(m)	38.08
+[lens data]
+1	38.070	4.81	1.613002	29.5			TK14
+2	136.365	2.26		29.5			
+3	25.330	9.07	1.613002	26.4			TK14
+4	-124.225	1.31	1.578297	23.2			LF7
+5	15.995	4.70		19.5			
+5AS	AS	4.63		19.15
+6	-16.620	1.32	1.578297	18.7			LF7
+7	66.085	6.25	1.613002	20.4			TK14
+8	-22.210	0.50		21.2			
+9	191.540	4.94	1.670899	24.7			BF16
+10	-52.725	Bf		24.7			
+[figure]
+source	GOI/ST01FB06_Catalog1971.png
+originX	136
+originY	257
+ppmm	12.006
+[notes]
+Bill:
+System-Helios-44 f '= 59 2w = 40 1: 2 Option-ST01FB06 26 / 2/2020 1:46 OPAL-PC
+
+                 OPTICAL SYSTEM CONSTRUCTION PARAMETERS
+  N Radii Axial Light Marks Refractive Index
+ pov. curvature dist. glass heights
+                                                 L = .589300 .434050 .656280
+
+                                             AIR
+   1 38.070 4.810 14.750 TK14 1.613002 1.625839 1.610006
+   2 136.365 2.260 14.750 AIR
+   3 25.330 9.070 13.200 TK14 1.613002 1.625839 1.610006
+   4 -124.225 1.310 11.600 LF7 1.578297 1.596755 1.574256
+   5 15.995 9.330 9.750 AIR
+   6 -16.620 1.320 9.350 LF7 1.578297 1.596755 1.574256
+   7 66.085 6.250 10.200 TK14 1.613002 1.625839 1.610006
+   8 -22.210 .500 10.600 AIR
+   9 191.540 4.940 12.350 BF16 1.670899 1.689317 1.666790
+  10 -52.725 12.350 AIR
+
+ ITEM: Deleted. size Y = -20.00000gr.mnsec S0 = .000dptr from the entrance pupil
+ PICTURE: Near. size Y '= .00000 flat SI = .000mm from Gauss Square
+ DIAFR. : ND = 5 plane SD = 4.7000 mm back aperture = .2500 (sin)
+
+ Relative size of the item: 1.000 .707
+ Relative vignetting upper: .250 .000
+ Relative vignetting lower: .250 .000

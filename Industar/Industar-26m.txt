@@ -1,0 +1,52 @@
+[descriptive data]
+title	Industar-26m 50mm f/2.8 46 degrees Y=43mm
+[constants]
+[variable distances]
+Focal Length	52
+Angle of View	46
+F-Number	2.8
+Image Height	43
+Total Length	undefined
+Magnification	0
+d0	Infinity
+Bf	undefined
+Bf(m)	41.88
+[lens data]
+1	19.030	5.40	1.621995	18.61		TK20
+2	-1296.000	3.20		17.29
+3	-37.225	1.43	1.616401	15.7		?2
+4	17.275	2.66		14.8
+4AS	AS	1.30		14.75
+5	194.660	0.90	1.578297	16.5		LF7
+6	16.620	5.80	1.670899	18.2		BF16
+7	-27.445	Bf		18.2
+[figure]
+source	GOI/ST01FA05_Catalog1963.png
+originX	143
+originY	172
+ppmm	15.950
+[notes]
+Bill: Figure does not really match.
+System-Industar-26m f '= 52 2w = 45 1: 2 Option-ST01FA05 26 / 2/2020 1:45 OPAL-PC
+
+                  OPTICAL SYSTEM CONSTRUCTION PARAMETERS
+  N Radii Axial Light Marks Refractive Index
+ pov. curvature dist. glass heights
+                                                 L = .589300 .434050 .656280
+
+                                             AIR
+   1 19.030 5.400 9.305 TK20 1.621995 1.636002 1.618770
+   2 -1296.000 3.200 8.645 AIR
+   3 -37.225 1.430 7.850 ?2 1.616401 1.638690 1.611597
+   4 17.275 3.960 7.400 AIR
+   5 194.660 .900 8.250 LF7 1.578297 1.596755 1.574256
+   6 16.620 5.800 9.100 BF16 1.670899 1.689317 1.666790
+   7 -27.445 9.100 AIR
+
+ ITEM: Deleted. size Y = .00000 S0 = .000dptr from the entrance pupil
+ PICTURE: Near. size Y '= 21.70000 mm flat SI = .000mm from Gauss Square
+ DIAFR. : ND = 4 plane SD = 2.6600 mm height per diaphragm = 7.3750 mm
+
+ Relative size of the item: 1.000 .707
+ Relative vignetting upper: .000 .000
+ Relative vignetting lower: .000 .000

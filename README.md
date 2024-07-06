@@ -2,6 +2,7 @@
 
 - Canon FD 400mm f/4.5 SSC: US 4045128 Example 2 (EFL 100mm)
 - Helios-44 58mm f/2 (no patent found)
+- Industar-61 50mm f/2.8 Macro (no patent found)
 - Jupiter-12 35mm f/2.8 (no patent found)
 - Leica Elmarit-M 135mm f/2.8: US 3108152 Example 1
 - Leica Elmarit-TL 18mm f/2.8 ASPH.: US 20200341238A1 Example 3

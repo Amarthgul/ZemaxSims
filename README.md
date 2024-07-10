@@ -9,11 +9,11 @@
 - Jupiter-12 35mm f/2.8 (no patent found)
 - Leica Elmarit-M 135mm f/2.8: US 3108152 Example 1
 - Leica Elmarit-TL 18mm f/2.8 ASPH.: US 20200341238A1 Example 3
-- Leica Summicron 50mm f/2: US2622478A Example 2 (EFL 100mm)
-- Leica Summilux 50mm f/1.4: US 3291553 Example 1 (EFL 1mm)
+- Leica Summicron 50mm f/2 (SOOIC): US2622478A Example 2 (EFL 100mm)
+- Leica Summilux 50mm f/1.4 (1996): US 3291553 Example 1 (EFL 1mm)
 - Meike 50mm f/0.95: CN216526483U Example 1
 - Sigma 50mm f/1.4 DG HSM ART: 	JP 2015114366 Example 1
-- Sigma 84mm f/1.4 DG HSM ART: JP 2018-005099 Example 1
+- Sigma 85mm f/1.4 DG HSM ART: JP 2018-005099 Example 1
 - Zeiss Biotar 50mm f/1.4: US1786916 Example 2 (EFL 100mm)
 - Zeiss Planar T 50mm f/1.4: US 3874771 example 5 (EFL 100mm)
 - Zhongyi Mitakon 50mm f/0.95 (M mount version): CN 111965793 Example 1

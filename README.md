@@ -1,6 +1,7 @@
 # Zemax Simulations  
 
 - Canon FD 400mm f/4.5 SSC: US 4045128 Example 2 (EFL 100mm)
+- Canon nFD 50mm f/1.4 (no patent found)
 - Helios-44 58mm f/2 (no patent found)
 - Industar-61 50mm f/2.8 Macro (no patent found)
 - Industar-50 50mm f/3.5 (no patent found)

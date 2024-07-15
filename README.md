@@ -4,6 +4,7 @@
 - Canon FD 35mm f/2: US 3748022 Example 1 (EFL 1mm)
 - Canon nFD 50mm f/1.4 (no patent found, rumored JP 1995151965)
 - Canon RF 35mm f/1.8 Macro: US20190113711A1 Example 1
+- Canon FD? 85mm f/1.2: JPA 1989302311 Example 4. 
 - Helios-44 58mm f/2 (no patent found)
 - Industar-61 50mm f/2.8 Macro (no patent found)
 - Industar-50 50mm f/3.5 (no patent found)
@@ -12,10 +13,11 @@
 - Leica Elmarit-M 135mm f/2.8: US 3108152 Example 1
 - Leica Elmarit-TL 18mm f/2.8 ASPH.: US 20200341238A1 Example 3
 - Leica Summicron 50mm f/2 (SOOIC): US2622478A Example 2 (EFL 100mm)
-- Leica Summilux 50mm f/1.4 (1996): US 3291553 Example 1 (EFL 1mm)
+- Leica Summilux 50mm f/1.4 (1996): US 3291553 Example 1 (EFL 1m)
+- Leica Summilux 35mm f/1.4 (1959): FR 1233449 Example 1 (EFL 1m, material error)
 - Meike 50mm f/0.95: CN216526483U Example 1
 - Sigma 50mm f/1.4 DG HSM ART: 	JP 2015114366 Example 1
 - Sigma 85mm f/1.4 DG HSM ART: JP 2018-005099 Example 1
 - Zeiss Biotar 50mm f/1.4: US1786916 Example 2 (EFL 100mm)
-- Zeiss Planar T 50mm f/1.4: US 3874771 example 5 (EFL 100mm)
+- Zeiss Planar T 50mm f/1.4: US 3874771 Example 5 (EFL 100mm)
 - Zhongyi Mitakon 50mm f/0.95 (M mount version): CN 111965793 Example 1

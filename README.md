@@ -20,6 +20,7 @@
 - Meike 8mm f/2.8 Fisheye: CN215986698U Example 1 
 - Sigma 50mm f/1.4 DG HSM ART: 	JP 2015114366 Example 1
 - Sigma 85mm f/1.4 DG HSM ART: JP 2018-005099 Example 1
+- Voigtlander Nokton 50mm F1.0 Asph: JP 2023-063766 Example 1 
 - Zeiss Biotar 50mm f/1.4: US 1786916 Example 2 (EFL 100mm)
 - Zeiss Distagon 60mm f/5.6: CH 321571 Example 1
 - Zeiss Hologon 15mm f/8: DE 1241637 Example 1 

@@ -1,6 +1,7 @@
 # Zemax Simulations  
 
 - Canon ? 85mm f/1.2: JPA 1989302311 Example 4.
+- Canon EF 50mm f/1 L: US 4717245 Example 2 (EFL 100mm)
 - Canon FD 28mm f/2.8 SC: US 4046459 Example 2 (EFL 1mm)
 - Canon FD 35mm f/2: US 3748022 Example 1 (EFL 1mm)
 - Canon FD 400mm f/4.5 SSC: US 4045128 Example 2 (EFL 100mm) 

@@ -1,12 +1,13 @@
 # Zemax Simulations  
 
-- Canon ? 85mm f/1.2: JPA 1989302311 Example 4.
+- Canon 85mm f/1.2: JPA 1989302311 Example 4.
 - Canon EF 50mm f/1 L: US 4717245 Example 2 (EFL 100mm)
 - Canon FD 28mm f/2.8 SC: US 4046459 Example 2 (EFL 1mm)
 - Canon FD 35mm f/2: US 3748022 Example 1 (EFL 1mm)
 - Canon FD 400mm f/4.5 SSC: US 4045128 Example 2 (EFL 100mm) 
 - Canon nFD 50mm f/1.4 (no patent found, rumored JP 1995151965)
 - Canon RF 35mm f/1.8 Macro: US20190113711A1 Example 1
+- Canon RF100mm F2.8 L Macro IS USM: JP 2021047297 Example 1
 - Helios-44 58mm f/2 (no patent found)
 - Industar-26m 50mm f/2.8 (no patent found)
 - Industar-50 50mm f/3.5 (no patent found)

@@ -1,11 +1,14 @@
 # Zemax Simulations  
 
+This repo is for hosting OpticStudio simulations of photographic lenses. 
+
 The hardest work, _aside from transcribing the parameters since a large chunck of them are recorded in paper scan documents_, is finding the right material. 
 
-While monochromatic simulation can use the RI provided in the patents directly, to simulate the lens more faithfully as a photographic instrument, an accurate material is needed for calculating dispersion. It is thus needed to locate the glass material that has the exact or closest index of refraction and Abbe number. 
+While monochromatic simulation can use the RI provided in the patents directly, to simulate the lens more faithfully as a photographic instrument, an accurate material is needed for dispersion. It is thus needed to locate the glass material that has the exact or closest index of refraction and Abbe number. 
 
-For the more recent lens patents, they typically use $n_d$ and $V_d$, which can be used to easily locate the material thanks to these 2 being the standard modern measurement. Old patents, on the hard, prove very challenging since they prefer $n_e$ and $V_e$, and may be using materials that have already gone extinct. This is particularly true for Old Leica lenses. 
+For the more recent lens patents, they typically include the $n_d$ and $V_d$ of each element, which can be used to easily locate the material thanks to these 2 being the standard modern measurement. Old patents, on the other hand, prove very challenging since they prefer $n_e$ and $V_e$, and may be using materials that have already gone extinct. This is particularly true for Old Leica lenses, such as the Summilux 35mm. 
 
+## List of lenses and their patents 
 
 - Canon 85mm f/1.2: JPA 1989302311 Example 4.
 - Canon EF 50mm f/1 L: US 4717245 Example 2 (EFL 100mm)
@@ -27,10 +30,11 @@ For the more recent lens patents, they typically use $n_d$ and $V_d$, which can 
 - Leica Summilux 50mm f/1.4 (1996): US 3291553 Example 1 (EFL 1m)
 - Meike 50mm f/0.95: CN 216526483U Example 1
 - Meike 8mm f/2.8 Fisheye: CN215986698U Example 1 
+- Sigma 35mm f/1.4 DG HSM ART: JP 2014-048488 Example 3
 - Sigma 50mm f/1.4 DG HSM ART: 	JP 2015114366 Example 1
 - Sigma 85mm f/1.4 DG HSM ART: JP 2018-005099 Example 1
 - Voigtlander Nokton 50mm F1.0 Asph: JP 2023-063766 Example 1 
-- Voigtlander Nokton 35mm f/1.2 III: JP2023090337A Example 3
+- Voigtlander Nokton 35mm f/1.2 III: JP 2023090337A Example 3
 - Zeiss Biotar 50mm f/1.4: US 1786916 Example 2 (EFL 100mm)
 - Zeiss Distagon 60mm f/5.6: CH 321571 Example 1
 - Zeiss Hologon 15mm f/8: DE 1241637 Example 1 

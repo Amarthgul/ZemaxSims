@@ -1,5 +1,12 @@
 # Zemax Simulations  
 
+The hardest work, _aside from transcribing the parameters since a large chunck of them are recorded in paper scan documents_, is finding the right material. 
+
+While monochromatic simulation can use the RI provided in the patents directly, to simulate the lens more faithfully as a photographic instrument, an accurate material is needed for calculating dispersion. It is thus needed to locate the glass material that has the exact or closest index of refraction and Abbe number. 
+
+For the more recent lens patents, they typically use $n_d$ and $V_d$, which can be used to easily locate the material thanks to these 2 being the standard modern measurement. Old patents, on the hard, prove very challenging since they prefer $n_e$ and $V_e$, and may be using materials that have already gone extinct. This is particularly true for Old Leica lenses. 
+
+
 - Canon 85mm f/1.2: JPA 1989302311 Example 4.
 - Canon EF 50mm f/1 L: US 4717245 Example 2 (EFL 100mm)
 - Canon FD 28mm f/2.8 SC: US 4046459 Example 2 (EFL 1mm)
@@ -16,7 +23,7 @@
 - Leica Elmarit-M 135mm f/2.8: US 3108152 Example 1 (EFL 100mm)
 - Leica Elmarit-TL 18mm f/2.8 ASPH.: US 20200341238A1 Example 3
 - Leica Summicron 50mm f/2 (SOOIC): US 2622478A Example 2 (EFL 100mm)
-- Leica Summilux 35mm f/1.4 (1959): FR 1233449 Example 1 (EFL 1m, material error)
+- Leica Summilux 35mm f/1.4 (1959): FR 1233449 Example 1 (EFL 1m, no material match)
 - Leica Summilux 50mm f/1.4 (1996): US 3291553 Example 1 (EFL 1m)
 - Meike 50mm f/0.95: CN 216526483U Example 1
 - Meike 8mm f/2.8 Fisheye: CN215986698U Example 1 

@@ -18,6 +18,7 @@ For the more recent lens patents, they typically include the $n_d$ and $V_d$ of 
 - Canon nFD 50mm f/1.4 (no patent found, rumored JP 1995151965)
 - Canon RF 35mm f/1.8 Macro: US20190113711A1 Example 1
 - Canon RF100mm F2.8 L Macro IS USM: JP 2021047297 Example 1
+- DZO Thypoch 50mm f/1.4: CN118244463A Example 1
 - Helios-44 58mm f/2 (no patent found)
 - Industar-26m 50mm f/2.8 (no patent found)
 - Industar-50 50mm f/3.5 (no patent found)

@@ -23,6 +23,7 @@
 - Sigma 50mm f/1.4 DG HSM ART: 	JP 2015114366 Example 1
 - Sigma 85mm f/1.4 DG HSM ART: JP 2018-005099 Example 1
 - Voigtlander Nokton 50mm F1.0 Asph: JP 2023-063766 Example 1 
+- Voigtlander 50mm f/2 APO Lanthar Asph: JP2021032959A Example 6
 - Voigtlander Nokton 35mm f/1.2 III: JP2023090337A Example 3
 - Zeiss Biotar 50mm f/1.4: US 1786916 Example 2 (EFL 100mm)
 - Zeiss Distagon 60mm f/5.6: CH 321571 Example 1

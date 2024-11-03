@@ -45,5 +45,6 @@ For the more recent lens patents, they typically include the $n_d$ and $V_d$ of 
 - Zeiss Planar 80mm f/2.8: US 2724994A Example 1 (EFL 100mm)
 - Zeiss Planar 80mm f/2.8 (Breger ver.): US 3051053 (EFL 1mm)
 - Zeiss Planar T 50mm f/1.4: US 3874771 Example 5 (EFL 100mm)
+- Zeiss Pro Tessar 35mm f/3.2: US2844997A (EFL 1mm)
 - Zeiss Sonnar T 150mm f/4: US 2720140 Example 3 (EFL 1mm)
 - Zhongyi Mitakon 50mm f/0.95 (M mount version): CN 111965793 Example 1

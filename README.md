@@ -45,6 +45,7 @@ For the more recent lens patents, they typically include the $n_d$ and $V_d$ of 
 - Zeiss Hologon 15mm f/8: DE 1241637 Example 1 
 - Zeiss Planar 80mm f/2.8: US 2724994A Example 1 (EFL 100mm)
 - Zeiss Planar 80mm f/2.8 (Breger ver.): US 3051053 (EFL 1mm)
+- Zeiss Planar 85mm f/1.4 (1973) (no patent found)
 - Zeiss Planar T 50mm f/1.4: US 3874771 Example 5 (EFL 100mm)
 - Zeiss Pro Tessar 35mm f/3.2: US2844997A (EFL 1mm)
 - Zeiss Rollei Distagon 55mm f/4 (no patent found)

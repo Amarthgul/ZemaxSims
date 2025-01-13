@@ -35,9 +35,10 @@ For the more recent lens patents, they typically include the $n_d$ and $V_d$ of 
 - Sigma 35mm f/1.4 DG HSM ART: JP 2014-048488 Example 3
 - Sigma 50mm f/1.4 DG HSM ART: 	JP 2015114366 Example 1
 - Sigma 85mm f/1.4 DG HSM ART: JP 2018-005099 Example 1
-- Voigtlander Nokton 50mm F1.0 Asph: JP 2023-063766 Example 1 
-- Voigtlander 50mm f/2 APO Lanthar Asph: JP 2021032959A Example 6
-- Voigtlander Nokton 35mm f/1.2 III: JP 2023090337A Example 3
+- Voigtländer Nokton 50mm F1.0 Asph: JP 2023-063766 Example 1 
+- Voigtländer 50mm f/2 APO Lanthar Asph: JP 2021032959A Example 6
+- Voigtländer Nokton 35mm f/1.2 III: JP 2023090337A Example 3
+- Voigtländer 90mm f/2.8 APO-Skopar VM: JP 2023049919A Example 1
 - Zeiss Batis 85mm f/1.8:JP 2015-096915 Example 2
 - Zeiss Biotar 50mm f/1.4: US 1786916 Example 2 (EFL 100mm)
 - Zeiss Distagon 60mm f/5.6: CH 321571 Example 1

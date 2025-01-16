@@ -24,6 +24,7 @@ For the more recent lens patents, they typically include the $n_d$ and $V_d$ of 
 - Industar-26m 50mm f/2.8 (no patent found)
 - Industar-50 50mm f/3.5 (no patent found)
 - Industar-61 50mm f/2.8 Macro (no patent found)
+- Jupiter-9 85mm f/2 (no patent found)
 - Jupiter-12 35mm f/2.8 (no patent found)
 - Leica Elmarit-M 135mm f/2.8: US 3108152 Example 1 (EFL 100mm)
 - Leica Elmarit-TL 18mm f/2.8 ASPH.: US 20200341238A1 Example 3
@@ -32,6 +33,7 @@ For the more recent lens patents, they typically include the $n_d$ and $V_d$ of 
 - Leica Summilux 50mm f/1.4 (1996): US 3291553 Example 1 (EFL 1m)
 - Meike 50mm f/0.95: CN 216526483U Example 1
 - Meike 8mm f/2.8 Fisheye: CN215986698U Example 1 
+- MIR-1 37mm f/2.8 (no patent found)
 - Sigma 35mm f/1.4 DG HSM ART: JP 2014-048488 Example 3
 - Sigma 50mm f/1.4 DG HSM ART: 	JP 2015114366 Example 1
 - Sigma 85mm f/1.4 DG HSM ART: JP 2018-005099 Example 1

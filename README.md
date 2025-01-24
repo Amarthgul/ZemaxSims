@@ -14,6 +14,7 @@ For the more recent lens patents, they typically include the $n_d$ and $V_d$ of 
 - Canon EF 50mm f/1 L: US 4717245 Example 2 (EFL 100mm)
 - Canon FD 28mm f/2.8 SC: US 4046459 Example 2 (EFL 1mm)
 - Canon FD 35mm f/2: US 3748022 Example 1 (EFL 1mm)
+- Canon FD 50mm f/1.8 JP 1988-081312 Example ML (without the teleconverter rear)
 - Canon FD 400mm f/4.5 SSC: US 4045128 Example 2 (EFL 100mm) 
 - Canon nFD 50mm f/1.4 (no patent found, rumored JP 1995151965)
 - Canon RF 35mm f/1.8 Macro: US 20190113711A1 Example 1

@@ -45,6 +45,7 @@ For the more recent lens patents, they typically include the $n_d$ and $V_d$ of 
 - Voigtländer 90mm f/2.8 APO-Skopar VM: JP 2023049919A Example 1
 - Zeiss Batis 85mm f/1.8:JP 2015-096915 Example 2
 - Zeiss Biotar 50mm f/1.4: US 1786916 Example 2 (EFL 100mm)
+- Zeiss Distagon T 25mm f2.8 Contax: DE 1250153 Example 2
 - Zeiss Distagon 60mm f/5.6: CH 321571 Example 1
 - Zeiss Hologon 15mm f/8: DE 1241637 Example 1 
 - Zeiss Planar 80mm f/2.8: US 2724994A Example 1 (EFL 100mm)

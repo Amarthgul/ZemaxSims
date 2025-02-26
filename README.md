@@ -36,6 +36,7 @@ For the more recent lens patents, they typically include the $n_d$ and $V_d$ of 
 - Meike 50mm f/0.95: CN 216526483U Example 1
 - Meike 8mm f/2.8 Fisheye: CN215986698U Example 1 
 - MIR-1 37mm f/2.8 (no patent found)
+- Nikon AI Nikkor 35mm f/1.4S: US 3576360 Example 1
 - Sigma 35mm f/1.4 DG HSM ART: JP 2014-048488 Example 3
 - Sigma 50mm f/1.4 DG HSM ART: 	JP 2015114366 Example 1
 - Sigma 85mm f/1.4 DG HSM ART: JP 2018-005099 Example 1

@@ -10,8 +10,9 @@ For the more recent lens patents, they typically include the $n_d$ and $V_d$ of 
 
 ## List of lenses and their patents 
 
-- Canon 85mm f/1.2: JPA 1989302311 Example 4.
+- Canon 85mm f/1.2: JPA 1989302311 Example 4
 - Canon EF 50mm f/1 L: US 4717245 Example 2 (EFL 100mm)
+- Canon EF 50mm f/1.2 L: JP 2007333790 Example 1
 - Canon FD 28mm f/2.8 SC: US 4046459 Example 2 (EFL 1mm)
 - Canon FD 35mm f/2: US 3748022 Example 1 (EFL 1mm)
 - Canon FD 50mm f/1.8 JP 1988-081312 Example ML (without the teleconverter rear)

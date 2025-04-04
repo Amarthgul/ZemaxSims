@@ -10,6 +10,7 @@ For the more recent lens patents, they typically include the $n_d$ and $V_d$ of 
 
 ## List of lenses and their patents 
 
+- Baltar 50mm f/2: US 2124356 (EFL 100mm)
 - Canon 85mm f/1.2: JPA 1989302311 Example 4
 - Canon EF 50mm f/1 L: US 4717245 Example 2 (EFL 100mm)
 - Canon EF 50mm f/1.2 L: JP 2007333790 Example 1
@@ -60,4 +61,5 @@ For the more recent lens patents, they typically include the $n_d$ and $V_d$ of 
 - Zeiss Pro Tessar 35mm f/3.2: US2844997A (EFL 1mm)
 - Zeiss Rollei Distagon 55mm f/4 (no patent found)
 - Zeiss Sonnar T 150mm f/4: US 2720140 Example 3 (EFL 1mm)
+- Zeiss Tele-Tessar 500mm f8: US 3134841A (EFL 1mm)
 - Zhongyi Mitakon 50mm f/0.95 (M mount version): CN 111965793 Example 1

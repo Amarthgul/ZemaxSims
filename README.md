@@ -11,6 +11,7 @@ For the more recent lens patents, they typically include the $n_d$ and $V_d$ of 
 ## List of lenses and their patents 
 
 - Bausch & Lomb Baltar 50mm f/2: US 2124356 (EFL 100mm)
+- Bausch & Lomb Triplet 50mm f/2.8: US2818777 Example 2 (EFL 100mm)
 - Canon 85mm f/1.2: JPA 1989302311 Example 4
 - Canon EF 50mm f/1 L: US 4717245 Example 2 (EFL 100mm)
 - Canon EF 50mm f/1.2 L: JP 2007333790 Example 1
@@ -42,6 +43,7 @@ For the more recent lens patents, they typically include the $n_d$ and $V_d$ of 
 - Meike 50mm f/0.95: CN 216526483U Example 1
 - Meike 8mm f/2.8 Fisheye: CN215986698U Example 1 
 - MIR-1 37mm f/2.8 (no patent found)
+- MIR-47 20mm f/2.5 (no patent found)
 - Nikon AI Nikkor 35mm f/1.4S: US 3576360 Example 1
 - Nikon Nikkor 35mm f/2.8: US 3874770 Example 1
 - Nikon Nikkor 15mm f/5.6: JP 1973071634 Example 2

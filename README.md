@@ -21,6 +21,7 @@ For the more recent lens patents, they typically include the $n_d$ and $V_d$ of 
 - Canon FD 400mm f/4.5 SSC: US 4045128 Example 2 (EFL 100mm) 
 - Canon nFD 50mm f/1.4 (no patent found, rumored JP 1995151965)
 - Canon RF 35mm f/1.8 Macro: US 20190113711A1 Example 1
+- Canon RF 45mm f/1.2 (suspected L lens): JP 2025149754 Example 1
 - Canon RF100mm F2.8 L Macro IS USM: JP 2021047297 Example 1
 - Canon Serenar 35mm f3.2: US 2645975 Example 1
 - Cooke Speed Panchro 50mm f/2: US 1955591A

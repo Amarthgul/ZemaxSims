@@ -35,10 +35,11 @@ For the more recent lens patents, they typically include the $n_d$ and $V_d$ of 
 - Jupiter-9 85mm f/2 (no patent found)
 - Jupiter-12 35mm f/2.8 (no patent found)
 - Leica Elcan 50mm f/2: US 3649104 Example 3
-- Leica Elmarit-M 135mm f/2.8: US 3108152 Example 1 (EFL 100mm)
+- Leica Elmar 50mm f/3.5: DRP591304 (EFL 100mm) 
 - Leica Elmar-M 135mm f/4: DE 1183707 Example 1 
 - Leica Elmarit-TL 18mm f/2.8 ASPH: US 20200341238A1 Example 3
 - Leica Elmarit 90mm F2.8: US 2995980 Example 1 
+- Leica Elmarit-M 135mm f/2.8: US 3108152 Example 1 (EFL 100mm)
 - Leica Macro Elmar-M 90mm F4: DE 2246966 Example 1 
 - Leica Summicron M 35mm f/1.4: US 2975673 Example 1 
 - Leica Summicron-M APO Asph 35mm f/2 : US 20220066176 (asph data encrypted)

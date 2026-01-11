@@ -2,11 +2,7 @@
 
 This repo is for hosting OpticStudio simulations of photographic lenses. 
 
-The hardest work, _aside from transcribing the parameters since a large chunck of them are recorded in paper scan documents_, is finding the right material. 
-
-While monochromatic simulation can use the RI provided in the patents directly, to simulate the lens more faithfully as a photographic instrument, an accurate material is needed for dispersion. It is thus needed to locate the glass material that has the exact or closest index of refraction and Abbe number. 
-
-For the more recent lens patents, they typically include the $n_d$ and $V_d$ of each element, which can be used to easily locate the material thanks to these 2 being the standard modern measurement. Old patents, on the other hand, prove very challenging since they prefer $n_e$ and $V_e$, and may be using materials that have already gone extinct. This is particularly true for Old Leica lenses, such as the Summilux 35mm. 
+A large chunk of the patents are from the (Optical Bench Hub)[https://www.photonstophotos.net/GeneralTopics/Lenses/OpticalBench/OpticalBenchHub.htm] by William J. Claff. The rests are solicited by comparing the assignee, date, and desriptions. 
 
 ## List of lenses and their patents 
 
@@ -58,6 +54,7 @@ For the more recent lens patents, they typically include the $n_d$ and $V_d$ of 
 - Sigma 50mm f/1.4 DG HSM ART: 	JP 2015114366 Example 1
 - Sigma 85mm f/1.4 DG HSM ART: JP 2018-005099 Example 1
 - Voigtländer Ultron 28mm f/2: JP 7546909B2 Example 1
+- Tamron AdaptAll 54B 300mm f/5.6: JP11035478A 
 - Tamron AdaptAll 55B 500mm f/8: JPS5538520A
 - Voigtländer Nokton 50mm F1.0 Asph: JP 2023-063766 Example 1 
 - Voigtländer 50mm f/2 APO Lanthar Asph: JP 2021032959A Example 6

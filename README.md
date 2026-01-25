@@ -21,8 +21,12 @@ A large chunk of the patents are from the (Optical Bench Hub)[https://www.photon
 - Canon RF 45mm f/1.2 (suspected L lens): JP 2025149754 Example 1
 - Canon RF100mm F2.8 L Macro IS USM: JP 2021047297 Example 1
 - Canon Serenar 35mm f3.2: US 2645975 Example 1
+- Cooke Double Speed Panchro 50mm f/2: US 2117252 Example 1/3 
 - Cooke Speed Panchro 50mm f/2: US 1955591A
 - Cooke Speed Panchro 18mm f/1.7: US 2785603 Example 3 
+- Cooke Unknown 50mm f/1.4: DE 1172874B Beispiel II (EFL 1mm)
+- Cooke Unknown 50mm f/2: DE1076394B (7 elements, EFL 1mm) 
+- Cooke Unknown 50mm f/2: DE1093108B (6 elements, EFL 1mm) 
 - DZO Thypoch 50mm f/1.4: CN 118244463A Example 1
 - DZO 21mm f/3.5: CN 118534627A Example 1 (optimized into 17mm f/2.8)
 - Helios-44 58mm f/2 (no patent found)

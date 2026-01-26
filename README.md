@@ -25,7 +25,7 @@ A large chunk of the patents are from the (Optical Bench Hub)[https://www.photon
 - Cooke Speed Panchro 50mm f/2: US 1955591A
 - Cooke Speed Panchro 18mm f/1.7: US 2785603 Example 3 
 - Cooke Unknown 50mm f/1.4: DE 1172874B Beispiel II (EFL 1mm)
-- Cooke Unknown 50mm f/2: DE1076394B (7 elements, EFL 1mm) 
+- Cooke Speed Panchro ii 50mm f/2: DE1076394B (also 32mm and 40mm, EFL 1mm) 
 - Cooke Unknown 50mm f/2: DE1093108B (6 elements, EFL 1mm) 
 - DZO Thypoch 50mm f/1.4: CN 118244463A Example 1
 - DZO 21mm f/3.5: CN 118534627A Example 1 (optimized into 17mm f/2.8)

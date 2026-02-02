@@ -2,7 +2,7 @@
 
 This repo is for hosting OpticStudio simulations of photographic lenses. 
 
-A large chunk of the patents are from the (Optical Bench Hub)[https://www.photonstophotos.net/GeneralTopics/Lenses/OpticalBench/OpticalBenchHub.htm] by William J. Claff. The rests are solicited by comparing the assignee, date, and desriptions. 
+A large chunk of the patents are from the [Optical Bench Hub](https://www.photonstophotos.net/GeneralTopics/Lenses/OpticalBench/OpticalBenchHub.htm) by William J. Claff. The rests are solicited by comparing the assignee, date, and desriptions. 
 
 ## List of lenses and their patents 
 
@@ -21,9 +21,11 @@ A large chunk of the patents are from the (Optical Bench Hub)[https://www.photon
 - Canon RF 45mm f/1.2 (suspected L lens): JP 2025149754 Example 1
 - Canon RF100mm F2.8 L Macro IS USM: JP 2021047297 Example 1
 - Canon Serenar 35mm f3.2: US 2645975 Example 1
+- Cooke Anastigmat 4 1/2 in f/2 (no patent found)
 - Cooke Double Speed Panchro 50mm f/2: US 2117252 Example 1/3 
-- Cooke Speed Panchro 50mm f/2: US 1955591A
 - Cooke Speed Panchro 18mm f/1.7: US 2785603 Example 3 
+- Cooke Speed Panchro 35mm f/2: GB507184A Example 1
+- Cooke Speed Panchro 50mm f/2: US 1955591A
 - Cooke Unknown 50mm f/1.4: DE 1172874B Beispiel II (EFL 1mm)
 - Cooke Speed Panchro ii 50mm f/2: DE1076394B (also 32mm and 40mm, EFL 1mm) 
 - Cooke Speed Panchro ii 75mm f/2: GB653227A Example 2 (EFL 1mm)

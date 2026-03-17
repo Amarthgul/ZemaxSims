@@ -33,6 +33,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - DZO Thypoch 50mm f/1.4: CN 118244463A Example 1
 - DZO 21mm f/3.5: CN 118534627A Example 1 (optimized into 17mm f/2.8)
 - Helios-44 58mm f/2 (no patent found)
+- Helios-42 58mm f/2.8 (no patent found, Schott N-SK2 is used to replace the missing TK4)
 - Industar-26m 50mm f/2.8 (no patent found)
 - Industar-50 50mm f/3.5 (no patent found)
 - Industar-61 50mm f/2.8 Macro (no patent found)

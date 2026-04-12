@@ -39,6 +39,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Industar-61 50mm f/2.8 Macro (no patent found)
 - Jupiter-9 85mm f/2 (no patent found)
 - Jupiter-12 35mm f/2.8 (no patent found)
+- Leica Colorplan 90mm f/2.5: US 3,076,383 Example 1
 - Leica Elcan 50mm f/2: US 3649104 Example 3
 - Leica Elmar 50mm f/3.5: DRP591304 (EFL 100mm) 
 - Leica Elmar-M 135mm f/4: DE 1183707 Example 1 

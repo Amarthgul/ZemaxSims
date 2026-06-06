@@ -1,6 +1,6 @@
 # Zemax Simulations  
 
-This repo is for hosting OpticStudio simulations of photographic lenses. 
+This repo is for hosting OpticStudio simulations of photographic lenses. Most of the ZMX files are direct data from the patent and are not optimized.  
 
 A large chunk of the patents are from the [Optical Bench Hub](https://www.photonstophotos.net/GeneralTopics/Lenses/OpticalBench/OpticalBenchHub.htm) by William J. Claff. The rests are solicited by comparing the assignee, date, and desriptions. 
 
@@ -65,6 +65,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Voigtländer Ultron 28mm f/2: JP 7546909B2 Example 1
 - Tamron AdaptAll 54B 300mm f/5.6: JP11035478A 
 - Tamron AdaptAll 55B 500mm f/8: JPS5538520A
+- Tamron SP AF 60mm f/2 Di II Macro: US2011286116A1 Example 1 (probably should be 3)
 - Voigtländer Nokton 50mm F1.0 Asph: JP 2023-063766 Example 1 
 - Voigtländer 50mm f/2 APO Lanthar Asph: JP 2021032959A Example 6
 - Voigtländer Nokton 35mm f/1.2 III: JP 2023090337A Example 3

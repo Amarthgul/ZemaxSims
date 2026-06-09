@@ -62,16 +62,17 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Sigma 35mm f/1.4 DG HSM ART: JP 2014-048488 Example 3
 - Sigma 50mm f/1.4 DG HSM ART: 	JP 2015114366 Example 1
 - Sigma 85mm f/1.4 DG HSM ART: JP 2018-005099 Example 1
-- Voigtländer Ultron 28mm f/2: JP 7546909B2 Example 1
 - Tamron AdaptAll 54B 300mm f/5.6: JP11035478A 
 - Tamron AdaptAll 55B 500mm f/8: JPS5538520A
 - Tamron SP AF 60mm f/2 Di II Macro: US2011286116A1 Example 1 (probably should be 3)
-- Vivitar (Kiron) 28mm f/2: pure guessing 
-- Voigtländer Nokton 50mm F1.0 Asph: JP 2023-063766 Example 1 
+- Vivitar (Kiron) 28mm f/2: US 4258980 Example 2 (another version by guessing)
+- Vivitar Series 1 135mm f2.3: GB 1408910 Example 2
 - Voigtländer 50mm f/2 APO Lanthar Asph: JP 2021032959A Example 6
+- Voigtländer 90mm f/2.8 APO-Skopar VM: JP 2023049919A Example 1
 - Voigtländer Nokton 35mm f/1.2 III: JP 2023090337A Example 3
 - Voigtländer Nokton 35mm f/1.5 ASPH: JP2023090337A 
-- Voigtländer 90mm f/2.8 APO-Skopar VM: JP 2023049919A Example 1
+- Voigtländer Nokton 50mm F1.0 Asph: JP 2023-063766 Example 1 
+- Voigtländer Ultron 28mm f/2: JP 7546909B2 Example 1
 - Zeiss Batis 85mm f/1.8:JP 2015-096915 Example 2
 - Zeiss Biotar 50mm f/1.4: US 1786916 Example 2 (EFL 100mm)
 - Zeiss Distagon T 25mm f2.8 Contax: DE 1250153 Example 2

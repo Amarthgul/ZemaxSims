@@ -31,7 +31,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Cooke Speed Panchro ii 75mm f/2: GB653227A Example 2 (EFL 1mm)
 - Cooke Unknown 50mm f/2: DE1093108B (6 elements, EFL 1mm) 
 - DZO Thypoch 50mm f/1.4: CN 118244463A Example 1
-- DZO 21mm f/3.5: CN 118534627A Example 1 (optimized into 17mm f/2.8)
+- DZO 21mm f/3.5: CN 118534627A Example 1
 - Helios-44 58mm f/2 (no patent found)
 - Helios-42 58mm f/2.8 (no patent found, Schott N-SK2 is used to replace the missing TK4)
 - Industar-26m 50mm f/2.8 (no patent found)
@@ -66,6 +66,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Tamron AdaptAll 54B 300mm f/5.6: JP11035478A 
 - Tamron AdaptAll 55B 500mm f/8: JPS5538520A
 - Tamron SP AF 60mm f/2 Di II Macro: US2011286116A1 Example 1 (probably should be 3)
+- Vivitar (Kiron) 28mm f/2: pure guessing 
 - Voigtländer Nokton 50mm F1.0 Asph: JP 2023-063766 Example 1 
 - Voigtländer 50mm f/2 APO Lanthar Asph: JP 2021032959A Example 6
 - Voigtländer Nokton 35mm f/1.2 III: JP 2023090337A Example 3

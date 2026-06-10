@@ -20,7 +20,8 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Canon RF 35mm f/1.8 Macro: US 20190113711A1 Example 1
 - Canon RF 45mm f/1.2 (suspected L lens): JP 2025149754 Example 1
 - Canon RF100mm F2.8 L Macro IS USM: JP 2021047297 Example 1
-- Canon Serenar 35mm f3.2: US 2645975 Example 1
+- Canon Serenar 35mm f/3.2: US 2645975 Example 1
+- Canon Serenar 85mm f/1.5: US 2645973 Example 1
 - Cooke Anastigmat 4 1/2 in f/2 (no patent found)
 - Cooke Double Speed Panchro 50mm f/2: US 2117252 Example 1/3 
 - Cooke Speed Panchro 18mm f/1.7: US 2785603 Example 3 
@@ -56,6 +57,8 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Meike 8mm f/2.8 Fisheye: CN215986698U Example 1 
 - MIR-1 37mm f/2.8 (no patent found)
 - MIR-47 20mm f/2.5 (no patent found)
+- MS Optics 19mm f/8: pure gussing 
+- MS Optics 73mm f/1.5: pure gussing 
 - Nikon AI Nikkor 35mm f/1.4S: US 3576360 Example 1
 - Nikon Nikkor 35mm f/2.8: US 3874770 Example 1
 - Nikon Nikkor 15mm f/5.6: JP 1973071634 Example 2

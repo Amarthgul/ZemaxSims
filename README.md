@@ -59,9 +59,13 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - MIR-47 20mm f/2.5 (no patent found)
 - MS Optics 19mm f/8: pure gussing 
 - MS Optics 73mm f/1.5: pure gussing 
-- Nikon AI Nikkor 35mm f/1.4S: US 3576360 Example 1
-- Nikon Nikkor 35mm f/2.8: US 3874770 Example 1
 - Nikon Nikkor 15mm f/5.6: JP 1973071634 Example 2
+- Nikon Nikkor 28mm f/2 Auto-N: US 3736049 Example 1 (rear optimized)
+- Nikon Nikkor 28mm f/2.8 AI-S: US 5917663 Example 2
+- Nikon Nikkor 28mm f/3.5: US 4099850 Example 5 
+- Nikon Nikkor 35mm f/1.4 AI-S: US 3576360 Example 1
+- Nikon Nikkor 35mm f/2.8: US 3874770 Example 1
+- Nikon Nikkor 50mm f/1.4 AI-S: JP 1967018597Y Example 1
 - Sigma 35mm f/1.4 DG HSM ART: JP 2014-048488 Example 3
 - Sigma 50mm f/1.4 DG HSM ART: 	JP 2015114366 Example 1
 - Sigma 85mm f/1.4 DG HSM ART: JP 2018-005099 Example 1

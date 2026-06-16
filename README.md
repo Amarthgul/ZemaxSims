@@ -51,15 +51,16 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Leica Summicron M 35mm f/1.4: US 2975673 Example 1 
 - Leica Summicron-M APO Asph 35mm f/2 : US 20220066176 (asph data encrypted)
 - Leica Summicron 50mm f/2 (SOOIC): US 2622478A Example 2 (EFL 100mm)
-- Leica Summicron 50mm f/2 M: US 4123144 Example 9
+- Leica Summicron 50mm f/2 M: US 4123144 Example 9 (EFL 100mm)
 - Leica Summilux 35mm f/1.4 (1959): FR 1233449 Example 1 (EFL 1m, no material match)
 - Leica Summilux 50mm f/1.4 (1996): US 3291553 Example 1 (EFL 1m)
 - Meike 50mm f/0.95: CN 216526483U Example 1
 - Meike 8mm f/2.8 Fisheye: CN215986698U Example 1 
 - MIR-1 37mm f/2.8 (no patent found)
 - MIR-47 20mm f/2.5 (no patent found)
-- MS Optics 19mm f/8: pure gussing 
-- MS Optics 73mm f/1.5: pure gussing 
+- MS Optics Hipolion 19mm f/8: pure guessing 
+- MS Optics Sonnetar 50mm f/1.1: pure guessing (only up to f/2)
+- MS Optics Sonnetar 73mm f/1.5: pure guessing 
 - Nikon Nikkor 15mm f/5.6: JP 1973071634 Example 2
 - Nikon Nikkor 28mm f/2 Auto-N: US 3736049 Example 1 (rear optimized)
 - Nikon Nikkor 28mm f/2.8 AI-S: US 5917663 Example 2
@@ -76,7 +77,8 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Tamron AdaptAll 55B 500mm f/8: JPS5538520A
 - Tamron SP AF 60mm f/2 Di II Macro: US2011286116A1 Example 1 (probably should be 3)
 - Vivitar (Kiron) 28mm f/2: US 4258980 Example 2 (another version by guessing)
-- Vivitar Series 1 135mm f2.3: GB 1408910 Example 2
+- Vivitar Series 1 135mm f/2.3: GB 1408910 Example 2
+- Vivitar Series 1 200mm f/3: US 3942876 Example 4
 - Voigtländer 50mm f/2 APO Lanthar Asph: JP 2021032959A Example 6
 - Voigtländer 90mm f/2.8 APO-Skopar VM: JP 2023049919A Example 1
 - Voigtländer Nokton 35mm f/1.2 III: JP 2023090337A Example 3
@@ -84,6 +86,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Voigtländer Nokton 50mm F1.0 Asph: JP 2023-063766 Example 1 
 - Voigtländer Ultron 28mm f/2: JP 7546909B2 Example 1
 - Zeiss Batis 85mm f/1.8:JP 2015-096915 Example 2
+- Zeiss Biogon 35mm f/2.8: US 2084309  (EFL 100mm)
 - Zeiss Biotar 50mm f/1.4: US 1786916 Example 2 (EFL 100mm)
 - Zeiss Distagon T 25mm f2.8 Contax: DE 1250153 Example 2
 - Zeiss Distagon 60mm f/5.6: CH 321571 Example 1

@@ -22,6 +22,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Canon RF100mm F2.8 L Macro IS USM: JP 2021047297 Example 1
 - Canon Serenar 35mm f/3.2: US 2645975 Example 1
 - Canon Serenar 85mm f/1.5: US 2645973 Example 1
+- Cooke i S35 40mm f/2: US9341827B2
 - Cooke Anastigmat 4 1/2 in f/2 (no patent found)
 - Cooke Double Speed Panchro 50mm f/2: US 2117252 Example 1/3 
 - Cooke Speed Panchro 18mm f/1.7: US 2785603 Example 3 

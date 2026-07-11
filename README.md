@@ -47,6 +47,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Leica Elmar 50mm f/3.5: DRP591304 (EFL 100mm) 
 - Leica Elmar-M 135mm f/4: DE 1183707 Example 1 
 - Leica Elmarit-TL 18mm f/2.8 ASPH: US 20200341238A1 Example 3
+- Leica Elmarit-R 28mm f/2.8: US 3740120 Example 3
 - Leica Elmarit 90mm F2.8: US 2995980 Example 1 
 - Leica Elmarit-M 135mm f/2.8: US 3108152 Example 1 (EFL 100mm)
 - Leica Macro Elmar-M 90mm F4: DE 2246966 Example 1 
@@ -70,6 +71,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Nikon Nikkor 35mm f/1.4 AI-S: US 3576360 Example 1
 - Nikon Nikkor 35mm f/2.8: US 3874770 Example 1
 - Nikon Nikkor 50mm f/1.4 AI-S: JP 1967018597Y Example 1
+- Olympus Zuiko 24mm f/2 J Auto-W: US 3830559 Example 1
 - Olympus Zuiko 28mm f/2 Auto-W: US 3862794 Example 2
 - Olympus Zuiko 50mm f/1.2 Auto-S: US 4099843 Example 6 
 - Sigma 35mm f/1.4 DG HSM ART: JP 2014-048488 Example 3

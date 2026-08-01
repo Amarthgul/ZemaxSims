@@ -50,6 +50,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Leica Elmarit-R 28mm f/2.8: US 3740120 Example 3
 - Leica Elmarit 90mm F2.8: US 2995980 Example 1 
 - Leica Elmarit-M 135mm f/2.8: US 3108152 Example 1 (EFL 100mm)
+- Leica Leitz Xenon 50mm f/1.5 (later Summarit): unknown patent. 
 - Leica Macro Elmar-M 90mm F4: DE 2246966 Example 1 
 - Leica Summicron M 35mm f/1.4: US 2975673 Example 1 
 - Leica Summicron-M APO Asph 35mm f/2 : US 20220066176 (asph data encrypted)

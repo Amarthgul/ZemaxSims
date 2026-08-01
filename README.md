@@ -6,6 +6,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 
 ## List of lenses and their patents 
 
+- 7Artisan AF 135mm F1.8 MAX: CN122469500A. 
 - Bausch & Lomb Baltar 50mm f/2: US 2124356 (EFL 100mm)
 - Bausch & Lomb Triplet 50mm f/2.8: US2818777 Example 2 (EFL 100mm)
 - Canon 85mm f/1.2: JPA 1989302311 Example 4

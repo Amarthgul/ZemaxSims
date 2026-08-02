@@ -23,6 +23,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Canon RF 45mm f/1.2 (suspected L lens): JP 2025149754 Example 1
 - Canon RF100mm F2.8 L Macro IS USM: JP 2021047297 Example 1
 - Canon Serenar 35mm f/3.2: US 2645975 Example 1
+- Canon Serenar 50mm f/1.8: US 2681594 Example 1
 - Canon Serenar 85mm f/1.5: US 2645973 Example 1
 - Cooke i S35 40mm f/2: US9341827B2
 - Cooke Anastigmat 4 1/2 in f/2 (no patent found)
@@ -57,6 +58,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Leica Summicron-M APO Asph 35mm f/2 : US 20220066176 (asph data encrypted)
 - Leica Summicron 50mm f/2 (SOOIC): US 2622478A Example 2 (EFL 100mm)
 - Leica Summicron 50mm f/2 M: US 4123144 Example 9 (EFL 100mm)
+- Leica Summicron 50mm f/2 R: US 4123144 Example 8 (EFL 100mm)
 - Leica Summilux 35mm f/1.4 (1959): FR 1233449 Example 1 (EFL 1m, no material match)
 - Leica Summilux 50mm f/1.4 (1996): US 3291553 Example 1 (EFL 1m)
 - Meike 50mm f/0.95: CN 216526483U Example 1
@@ -74,6 +76,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Nikon Nikkor 35mm f/2.8: US 3874770 Example 1
 - Nikon Nikkor 50mm f/1.4 AI-S: JP 1967018597Y Example 1
 - Nikon Nikkor 58mm f/1.4G AF-S: JP5761604B2 Example 2
+- Nikon Zunow 50mm f/1.1: US 2715354 A
 - Olympus Zuiko 24mm f/2 J Auto-W: US 3830559 Example 1
 - Olympus Zuiko 28mm f/2 Auto-W: US 3862794 Example 2
 - Olympus Zuiko 50mm f/1.2 Auto-S: US 4099843 Example 6 

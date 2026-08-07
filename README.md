@@ -9,10 +9,10 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - 7Artisan AF 135mm F1.8 MAX: CN122469500A. 
 - Bausch & Lomb Baltar 50mm f/2: US 2124356 (EFL 100mm)
 - Bausch & Lomb Triplet 50mm f/2.8: US2818777 Example 2 (EFL 100mm)
-- Canon 85mm f/1.2: JPA 1989302311 Example 4
 - Canon EF 50mm f/1 L: US 4717245 Example 2 (EFL 100mm)
 - Canon EF 50mm f/1.2 L: JP 2007333790 Example 1
 - Canon EF 50mm f/1.8 Nifty Fifty: JP S6287922A Example 2 
+- Canon EF 85mm f/1.2: JPA 1989302311 Example 4
 - Canon FD 28mm f/2.8 SC: US 4046459 Example 2 (EFL 1mm)
 - Canon FD 35mm f/2: US 3748022 Example 1 (EFL 1mm)
 - Canon FD 50mm f/1.8 JP 1988-081312 Example ML (without the teleconverter rear)

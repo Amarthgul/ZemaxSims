@@ -47,6 +47,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Leica Colorplan 90mm f/2.5: US 3,076,383 Example 1
 - Leica Elcan 50mm f/2: US 3649104 Example 3
 - Leica Elmar 50mm f/3.5: DRP591304 (EFL 100mm) 
+- Leica Elmax 50mm f/3.5: Max Berek manuscript 
 - Leica Elmar-M 135mm f/4: DE 1183707 Example 1 
 - Leica Elmarit-TL 18mm f/2.8 ASPH: US 20200341238A1 Example 3
 - Leica Elmarit-R 28mm f/2.8: US 3740120 Example 3
@@ -66,7 +67,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - MIR-1 37mm f/2.8 (no patent found)
 - MIR-47 20mm f/2.5 (no patent found)
 - MS Optics Hipolion 19mm f/8: pure guessing 
-- MS Optics Sonnetar 50mm f/1.1: pure guessing (only up to f/2)
+- MS Optics Sonnetar 50mm f/1.1: pure guessing (only up to f/1.4)
 - MS Optics Sonnetar 73mm f/1.5: pure guessing 
 - Nikon Nikkor 15mm f/5.6: JP 1973071634 Example 2
 - Nikon Nikkor 28mm f/2 Auto-N: US 3736049 Example 1 (rear optimized)

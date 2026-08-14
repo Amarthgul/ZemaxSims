@@ -77,6 +77,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Nikon Nikkor 28mm f/3.5: US 4099850 Example 5 
 - Nikon Nikkor 35mm f/1.4 AI-S: US 3576360 Example 1
 - Nikon Nikkor 35mm f/2.8: US 3874770 Example 1
+- Nikon Nikkor 50mm f/2 Auto-S: JP 1964025754 Example 1
 - Nikon Nikkor 50mm f/1.4 AI-S: JP 1967018597Y Example 1
 - Nikon Nikkor 58mm f/1.4G AF-S: JP5761604B2 Example 2
 - Nikon Zunow 50mm f/1.1: US 2715354 A

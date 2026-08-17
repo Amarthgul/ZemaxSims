@@ -99,6 +99,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Voigtländer Nokton 35mm f/1.5 ASPH: JP2023090337A 
 - Voigtländer Nokton 50mm F1.0 Asph: JP 2023-063766 Example 1 
 - Voigtländer Ultron 28mm f/2: JP 7546909B2 Example 1
+- Voigtländer/Zeiss Ultron 50mm f/1.8: US 3612663A Example 3 (patent by Voigtländer)
 - Zeiss Batis 85mm f/1.8:JP 2015-096915 Example 2
 - Zeiss Biogon 35mm f/2.8: US 2084309  (EFL 100mm)
 - Zeiss Biotar 50mm f/1.4: US 1786916 Example 2 (EFL 100mm)

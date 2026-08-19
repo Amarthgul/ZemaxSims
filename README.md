@@ -107,6 +107,8 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Zeiss Distagon T 25mm f2.8 Contax: DE 1250153 Example 2
 - Zeiss Distagon 60mm f/5.6: CH 321571 Example 1
 - Zeiss Hologon 15mm f/8: DE 1241637 Example 1 
+- Zeiss Planar 50mm f/2 Bessamatic: US 2927507A (EFL 100mm)
+- Zeiss Planar 50mm f/2 Contarex: US 2777362A Example 4 (EFL 100mm)
 - Zeiss Planar 80mm f/2.8: US 2724994A Example 1 (EFL 100mm)
 - Zeiss Planar 80mm f/2.8 (Breger ver.): US 3051053 (EFL 1mm)
 - Zeiss Planar 85mm f/1.4 (1973) (no patent found)

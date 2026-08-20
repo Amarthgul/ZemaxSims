@@ -57,6 +57,7 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Leica Elmarit-M 135mm f/2.8: US 3108152 Example 1 (EFL 100mm)
 - Leica Leitz Xenon 50mm f/1.5 (later Summarit): unknown patent. 
 - Leica Macro Elmar-M 90mm F4: DE 2246966 Example 1 
+- Leica Summarex 85mm f/1.5: US2171641A (EFL 1mm)
 - Leica Summicron M 35mm f/1.4: US 2975673 Example 1 
 - Leica Summicron-M APO Asph 35mm f/2 : US 20220066176 (asph data encrypted)
 - Leica Summicron 50mm f/2 (SOOIC): US 2622478A Example 2 (EFL 100mm)
@@ -64,6 +65,8 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Leica Summicron 50mm f/2 R: US 4123144 Example 8 (EFL 100mm)
 - Leica Summilux 35mm f/1.4 (1959): FR 1233449 Example 1 (EFL 1m, no material match)
 - Leica Summilux 50mm f/1.4 (1996): US 3291553 Example 1 (EFL 1m)
+- Leica Summitar 50mm f/2: US 2622478A Example 1 (EFL 100mm)
+- Leica Summitar 50mm f/2 Prototype: US 2171640A (EFL 1mm)
 - Meike 50mm f/0.95: CN 216526483U Example 1
 - Meike 8mm f/2.8 Fisheye: CN215986698U Example 1 
 - MIR-1 37mm f/2.8 (no patent found)

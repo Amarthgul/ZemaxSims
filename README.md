@@ -87,9 +87,11 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Olympus Zuiko 24mm f/2 J Auto-W: US 3830559 Example 1
 - Olympus Zuiko 28mm f/2 Auto-W: US 3862794 Example 2
 - Olympus Zuiko 50mm f/1.2 Auto-S: US 4099843 Example 6 
-- Schneider Retina‑Xenon C 35 mm f/5.6: US 2796002 Example 2
-- Schneider Retina‑Xenon C 50 mm f/2: DE 1016032 Beispiel A
-- Schneider Retina‑Xenon C 80 mm f/4: DE 1047471 Beispiel B
+- Schneider Retina‑Xenon C 35 mm f/4: DE 1029176B (EFL 100mm)
+- Schneider Retina‑Xenon C 35 mm f/5.6: US 2796002 Example 2 (EFL 100mm)
+- Schneider Retina‑Xenon C 50 mm f/2: DE 1016032 Beispiel A (EFL 100mm)
+- Schneider Retina‑Xenon C 50 mm f/2.8: DE 1016032 Beispiel A (same lens, mechanically restricted diaphragm)
+- Schneider Retina‑Xenon C 80 mm f/4: DE 1047471 Beispiel B (EFL 100mm)
 - Sigma 35mm f/1.4 DG HSM ART: JP 2014-048488 Example 3
 - Sigma 50mm f/1.4 DG HSM ART: 	JP 2015114366 Example 1
 - Sigma 85mm f/1.4 DG HSM ART: JP 2018-005099 Example 1

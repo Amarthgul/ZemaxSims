@@ -128,4 +128,5 @@ A large chunk of the patents are from the [Optical Bench Hub](https://www.photon
 - Zeiss Sonnar T 150mm f/4: US 2720140 Example 3 (EFL 1mm)
 - Zeiss Sonnar 50mm F1.5 Opton Contax: US 2186621 Example 1
 - Zeiss Tele-Tessar 500mm f8: US 3134841A (EFL 1mm)
+- Zeiss Tessar 50mm f/3.5: GB 673358 
 - Zhongyi Mitakon 50mm f/0.95 (M mount version): CN 111965793 Example 1

@@ -2,12 +2,13 @@
 
 This repo is for hosting OpticStudio simulations of photographic lenses. Most of the ZMX files are direct data from the patent and are not optimized.  
 
-A large chunk of the patents are from the [Optical Bench Hub](https://www.photonstophotos.net/GeneralTopics/Lenses/OpticalBench/OpticalBenchHub.htm) by William J. Claff. The rests are solicited by comparing the assignee, date, and desriptions. 
+Some of the patents are from the [Optical Bench Hub](https://www.photonstophotos.net/GeneralTopics/Lenses/OpticalBench/OpticalBenchHub.htm) by William J. Claff. The rests are solicited by comparing the assignee, date, and desriptions. 
 
 ## List of lenses and their patents 
 
 - 7Artisan AF 135mm F1.8 MAX: CN122469500A. 
 - 7Artisan 105mm f/2.8: CN221650719U 
+- Angénieux Type M1 25mm f/0.95: FR 1077189 (EFL 100mm)
 - Bausch & Lomb Baltar 50mm f/2: US 2124356 (EFL 100mm)
 - Bausch & Lomb Triplet 50mm f/2.8: US2818777 Example 2 (EFL 100mm)
 - Canon EF 50mm f/1 L: US 4717245 Example 2 (EFL 100mm)

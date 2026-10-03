@@ -4,6 +4,8 @@ This repo is for hosting OpticStudio simulations of photographic lenses. Most of
 
 Some of the patents are from the [Optical Bench Hub](https://www.photonstophotos.net/GeneralTopics/Lenses/OpticalBench/OpticalBenchHub.htm) by William J. Claff. The rests are solicited by comparing the assignee, date, and desriptions. 
 
+You might also be interested in another project of mine, which performs [scene imaging simulation](https://github.com/Amarthgul/ISS), and the lenses here can be used in that applciation. 
+
 ## List of lenses and their patents 
 
 - 7Artisan AF 135mm F1.8 MAX: CN122469500A. 
@@ -85,7 +87,7 @@ Some of the patents are from the [Optical Bench Hub](https://www.photonstophotos
 - Nikon Nikkor 50mm f/2 Auto-S: JP 1964025754 Example 1
 - Nikon Nikkor 50mm f/1.4 AI-S: JP 1967018597Y Example 1
 - Nikon Nikkor 58mm f/1.4G AF-S: JP5761604B2 Example 2
-- Nikon Nikkor 135mm f/1.8 Plena: US20250327989 Example 1 
+- Nikon Nikkor 135mm f/1.8 Z Plena: US20250327989 Example 1 
 - Nikon Zunow 50mm f/1.1: US 2715354 A
 - Olympus Zuiko 24mm f/2 J Auto-W: US 3830559 Example 1
 - Olympus Zuiko 28mm f/2 Auto-W: US 3862794 Example 2

@@ -7,3 +7,4 @@
 # Session files are not necessary but takes a lot of spaces 
 *.zda
 *.ZDA
+.DS_Store

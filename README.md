@@ -121,6 +121,7 @@ You might also be interested in another project of mine, which performs [scene i
 - Zeiss Distagon T 25mm f2.8 Contax: DE 1250153 Example 2
 - Zeiss Distagon 60mm f/5.6: CH 321571 Example 1
 - Zeiss Hologon 15mm f/8: DE 1241637 Example 1 
+- Zeiss Ikon Ernostar: DE 458499C 
 - Zeiss Planar 50mm f/2 Bessamatic: US 2927507A (EFL 100mm)
 - Zeiss Planar 50mm f/2 Contarex: US 2777362A Example 4 (EFL 100mm)
 - Zeiss Planar Rudolph: US 583336 (EFL 1mm)
@@ -132,7 +133,9 @@ You might also be interested in another project of mine, which performs [scene i
 - Zeiss Pro Tessar 35mm f/3.2: US 2844997A (EFL 1mm)
 - Zeiss Rollei Distagon 55mm f/4 (no patent found)
 - Zeiss Sonnar T 150mm f/4: US 2720140 Example 3 (EFL 1mm)
-- Zeiss Sonnar 50mm F1.5 Opton Contax: US 2186621 Example 1
+- Zeiss Sonnar 50mm f/1.5 Opton Contax: US 2186621 Example 1
+- Zeiss Sonnar 50mm f/2 Opton Contax: US 2663221A Example 1
+- Zeiss Sonnar 50mm f/2.8 Opton Contax: US2562012A
 - Zeiss Tele-Tessar 500mm f8: US 3134841A (EFL 1mm)
 - Zeiss Tessar 50mm f/3.5: GB 673358 
 - Zhongyi Mitakon 50mm f/0.95 (M mount version): CN 111965793 Example 1

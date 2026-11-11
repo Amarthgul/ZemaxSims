@@ -137,5 +137,6 @@ You might also be interested in another project of mine, which performs [scene i
 - Zeiss Sonnar 50mm f/2 Opton Contax: US 2663221A Example 1
 - Zeiss Sonnar 50mm f/2.8 Opton Contax: US2562012A
 - Zeiss Tele-Tessar 500mm f8: US 3134841A (EFL 1mm)
+- Zeiss Sonnar Superachromat 250mm f/5.6 CFE: US 3883229 Example 3 
 - Zeiss Tessar 50mm f/3.5: GB 673358 
 - Zhongyi Mitakon 50mm f/0.95 (M mount version): CN 111965793 Example 1

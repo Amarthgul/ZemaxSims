@@ -122,6 +122,7 @@ You might also be interested in another project of mine, which performs [scene i
 - Zeiss Distagon 60mm f/5.6: CH 321571 Example 1
 - Zeiss Hologon 15mm f/8: DE 1241637 Example 1 
 - Zeiss Ikon Ernostar: DE 458499C 
+- Zeiss Planar 50mm f/1.8 Rollei QBM: US 3738739 Example 5 (EFL 1mm)
 - Zeiss Planar 50mm f/2 Bessamatic: US 2927507A (EFL 100mm)
 - Zeiss Planar 50mm f/2 Contarex: US 2777362A Example 4 (EFL 100mm)
 - Zeiss Planar Rudolph: US 583336 (EFL 1mm)

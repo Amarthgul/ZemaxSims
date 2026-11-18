@@ -30,6 +30,7 @@ You might also be interested in another project of mine, which performs [scene i
 - Canon Serenar 35mm f/3.2: US 2645975 Example 1
 - Canon Serenar 50mm f/1.8: US 2681594 Example 1
 - Canon Serenar 85mm f/1.5: US 2645973 Example 1
+- Canon LTM 35mm f/2: US 2834253A (EFL 100mm) 
 - Cooke i S35 40mm f/2: US9341827B2
 - Cooke Anastigmat 4 1/2 in f/2 (no patent found)
 - Cooke Double Speed Panchro 50mm f/2: US 2117252 Example 1/3 

@@ -98,7 +98,8 @@ You might also be interested in another project of mine, which performs [scene i
 - Schneider Retina‑Xenon C 50 mm f/2: DE 1016032 Beispiel A (EFL 100mm)
 - Schneider Retina‑Xenon C 50 mm f/2.8: DE 1016032 Beispiel A (same lens, mechanically restricted diaphragm)
 - Schneider Retina‑Xenon C 80 mm f/4: DE 1047471 Beispiel B (EFL 100mm)
-- Schneider Xenar 50mm f/2.8: DE 753329 C (EFL 1mm) 									
+- Schneider Xenar 50mm f/2.8: DE 753329 C (EFL 1mm) 	
+- Schneider Video-Xenon 75mm T2.1: DE 102012014955 Example 1 
 - Sigma 35mm f/1.4 DG HSM ART: JP 2014-048488 Example 3
 - Sigma 50mm f/1.4 DG HSM ART: 	JP 2015114366 Example 1
 - Sigma 85mm f/1.4 DG HSM ART: JP 2018-005099 Example 1
